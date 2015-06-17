@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:text="@string/client_port"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/enter_client_port"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:inputType="number"
+            android:singleLine="true"
+            android:text="@string/client_port_default" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/enter_client_name"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+            android:hint="@string/enter_client_name"
+            android:inputType="text"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"  />
+
+        <Button
+            android:id="@+id/ok_button"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:text="@string/ok_label"
+            android:textAppearance="?android:attr/textAppearanceMedium"  />
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/Android/AndroidStudioProjects/Assignment2-Code/Chat-Client-Oneway/app/src/main/res/layout/parent.xml -->

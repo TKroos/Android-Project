@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.stevens.cs522.chat.oneway"
+    android:versionCode="10"
+    android:versionName="5.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WIFI" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="edu.stevens.cs522.chat.oneway.app.activities.ParentActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!-- <action android:name="ParentActivity"/> -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.stevens.cs522.chat.oneway.app.activities.DisplaySelection"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="edu.stevens.cs522.chat.oneway.app.activities.Peers"
+            android:label="@string/app_name" >
+            uiOptions="splitActionBarWhenNarrow" ... >
+            <meta-data
+                android:name="android.support.UI_OPTIONS"
+                android:value="splitActionBarWhenNarrow" />
+        </activity>
+        <activity
+            android:name="edu.stevens.cs522.chat.oneway.app.activities.ChatRooms"
+            android:label="@string/app_name" >
+        </activity>
+
+        <service
+            android:name="edu.stevens.cs522.chat.oneway.app.services.RegisterService"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="edu.stevens.cs522.chat.oneway.app.services.SendMessageService"
+            android:exported="false" >
+        </service>
+
+        <provider
+            android:name="edu.stevens.cs522.chat.oneway.app.provider.ChatProvider"
+            android:authorities="edu.stevens.cs522.chat.oneway.client"
+            android:exported="false" />
+
+        <uses-library android:name="com.google.android.maps" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

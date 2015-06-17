@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-4034903e827aac4168e7a16a63f153df68546b38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-d671a0e3570923ead0858c7e2e152a2b9b0314ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-73dadccdde65dc476b3629ab4eea14ce6c72e826.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-3415e7a40dd84e1dfc22c0c9ac24556d320e30af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-f04f7409dac7574188e13c0c530721bcc766ef35.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-02b28cd84c3317c32539c477a0137a5392c45757.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-ea74387e523c9528b70240f9b4bdcfccbb50b857.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-a211b292274ed4a5b4b7ab6a2637db3f1c1cdc4f.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-f938dbb3b9b0edd1503f4a1617f880b39321b402.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-b0387d4b14a0dd16ba09c5f3d0f96f6046c014cd.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-d1f4dc47695bafd2e9fa01a87fa681dd395a8f1f.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-a6cd85add74bfa39ff922b02675f7cf1d7eb8e30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-b0feee6f1c72de40ac3daae42c801570d1a78d67.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-3179ed61c22707b402d559e736e3887788b748ba.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-9c7f0f00a3d76e88d03ff501363eae75a59facb5.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-7fe5101145487f8ddfb86039160b88870010941c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-40fc4cec4393b18b8b33930957dff7add0cf911b.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-862e69437aaff264e9ca1333144333304fd0c494.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-7d3be096803769ee6ffb67ca88801a9ee1ea5942.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-fa5d365a0e34a58239973bbd25886248274e3d11.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-da28aa5892a1c3e0e24624ddc950aa4d9a1f54b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-79b9203e6c224e323825295a426587ceda2cc98e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-76b76bfef32d23f3e295d2feb5e4c780e1a48872.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-a0b2d06c65af31b13c41fcfa4c4649867c391a5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a3b6f0bd0ed67322acfc2f7494845e7aec28a6cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-96efffee297ea8995c1e5baf2df1cf4aef299cdf.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-d056f6497bc5959fd966bea0d94c127803fc2913.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-387916af33025e0d5be86536049eec92dff482c7.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-c45389d750aed4b8102f2f0fee31d0a1e577bbc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-1382407493b791475bec10287545af2c2850ba7c.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-d240c694bbd6e021fcfc5f516f91d28ced823e50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-3328926640308829e114dd189e8f0577db8ae406.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-d8512c195e90bb8a98f3c3d9be9967be42fab60d.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-4cc9dd6787eb1b9abd0e907f89f645ec4297f81c.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-b3369caf80b0b6f7f4d5958021a0482c03f2ed98.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-a72bbe72d89cc4aa3565e8274b8d959d8c79aff0.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-76e6a38c94bd0bdc8c930fc404999136787b7cd9.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7bcbd5db6723e9861999b9bee220b2fe4d280995.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-3240f2f1a6defe9c90486d385abebd754fa71c44.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-e95ce19fcafbce1c3054a345ee97602babc636f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-0415ef426f9e3327c285ff4fcf4dbd53990c7540.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-03a8ea949fe0b0bc3165af5980710f510247c880.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Xiang\Desktop\Stevens\CS522 Mobile App\Assignment 9\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-d5d584787d2e96b99f7a01e35660805a072a1aea.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-ef738c5048aeb3d6b90b2491abe39686019a4cd3.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\Android\AndroidStudioProjects\Assignment6-Code\Simple Cloud Chat App\app\build\intermediates\pre-dexed\debug\classes-6cdba6584618e76009301601bbb610798de65b40.jar" />
+    </item>
+
+</items>

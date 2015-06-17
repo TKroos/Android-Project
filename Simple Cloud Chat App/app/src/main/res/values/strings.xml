@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xiang Wang Chat App</string>
+    <string name="app_port">6666</string>
+    <string name="latitude">40.744906</string>
+    <string name="longitude">-74.023937</string>
+    
+    <!-- String literals in the UI -->
+    <string name="destination_host">Destination Host</string>
+    <string name="destination_host_default">10.0.2.2</string>
+    <string name="destination_port">Destination Port</string>
+    <string name="destination_port_default">6666</string>
+    <string name="message_edit_text">Type your message here.</string>
+    <string name="enter_client_name">Enter your client name here..</string>
+    <string name="client_port">Client Port</string>
+    <string name="client_port_default">5555</string>
+    <string name="send_label">SEND</string>
+    <string name="ok_label">OK</string>
+    <string name="next_label">NEXT</string>
+    <string name="target_host_default">10.0.2.2</string>
+    <string name="target_port_default">6666</string>
+    <string name="menu_show_peers">SHOW PEERS</string>
+    <string name="peer_list">PeerList</string>
+    <string name="clear_peer_list">Clear List</string>
+    <string name="messages">Latest Messages</string>
+    <string name="empty_peer_list">PEER LIST IS EMPTY!</string>
+    <string name="empty_chatroom_list">CHATROOM LIST IS EMPTY!</string>
+    <string name="empty_message_list">MESSAGE LIST IS EMPTY!</string>
+    <string name="server_uri">Server URI</string>
+    <string name="enter_server_uri">Enter server Uri here..</string>
+    <string name="default_server_uri">http://TKroos.home:8080/chat</string>
+    <string name="add_chatroom">Add ChatRoom</string>
+    <string name="send_message">Send Message</string>
+</resources>

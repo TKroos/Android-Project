@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1">
+    <!--  android:id="@+id/cart"  -->
+    <ListView
+        android:id="@id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@id/android:empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty_chatroom_list"
+        />
+</LinearLayout><!-- From: file:/C:/Users/Xiang/Desktop/Stevens/CS522%20Mobile%20App/Assignment%209/Simple%20Cloud%20Chat%20App/app/src/main/res/layout/chatroom_list_fragment.xml -->

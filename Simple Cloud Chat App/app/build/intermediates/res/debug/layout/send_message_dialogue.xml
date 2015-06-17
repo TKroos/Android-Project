@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:scaleType="center"
+        android:contentDescription="@string/app_name"
+        android:text="Send a Message"
+        android:id="@+id/send_a_message"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/chatroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:inputType="text"
+        android:singleLine="true"
+        android:hint="Chat Room" />
+    <EditText
+        android:id="@+id/message_to_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="16dp"
+        android:inputType="text"
+        android:singleLine="true"
+        android:hint="Message"/>
+</LinearLayout><!-- From: file:/C:/Users/Xiang/Desktop/Stevens/CS522%20Mobile%20App/Assignment%209/Simple%20Cloud%20Chat%20App/app/src/main/res/layout/send_message_dialogue.xml -->

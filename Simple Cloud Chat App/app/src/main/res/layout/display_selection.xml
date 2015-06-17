@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="View by Peers or Chat Rooms"
+            android:id="@+id/peer_or_chatroom"
+            android:layout_gravity="center_horizontal"
+            android:textSize="25dp"
+            android:textIsSelectable="false"
+            android:layout_marginTop="50dp" />
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="PEERS"
+            android:id="@+id/peers"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp" />
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="CHAT ROOMS"
+            android:id="@+id/chatrooms"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp" />
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="CLEAR"
+            android:id="@+id/clear"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp" />
+
+        <TextView
+            android:layout_width="330dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="PEERS = a peer list, CHAT ROOMS = a chat room list. Click a specific item for detail messages"
+            android:id="@+id/specification"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="80dp" />
+    </LinearLayout>
+</LinearLayout>
